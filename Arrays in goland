@@ -1,0 +1,22 @@
+Package main
+
+ Import(
+
+ "fmt"
+
+ )
+
+ func main () }
+
+  var decimalNum float32
+
+ fmt.printf("enter a decimalNumber")
+
+ fmt.scan("%f",& decimalNum)
+
+ fmt.printf("the truncated value of %f,is%d\n", decimalNum,int(decimal))
+ 
+
+ 
+
+ 
